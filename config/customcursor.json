@@ -1,0 +1,13 @@
+{
+  "pointer": {
+    "x": 0.0,
+    "y": 0.0,
+    "size": 32,
+    "enabled": true,
+    "identifier": {
+      "field_13353": "cursorfolder",
+      "field_13355": "customcursor.png",
+      "cachedString": "cursorfolder:customcursor.png"
+    }
+  }
+}

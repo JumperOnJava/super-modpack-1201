@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","black_icons","continuity:glass_pane_culling_fix","file/VanillaTweaks_r787488.zip","fzmm:fzmm_default_heads","file/§d§lCherry Background§r§0.zip","betterbeds:connectedbeds","file/enchant icons 1.20 v1.3.zip"]
-incompatibleResourcePacks:["betterbeds:connectedbeds","file/icons"]
+resourcePacks:["vanilla","fabric","black_icons","fzmm:fzmm_default_heads","continuity:glass_pane_culling_fix","file/§d§lCherry Background§r§0.zip","betterbeds:connectedbeds","file/enchant icons 1.20 v1.3.zip"]
+incompatibleResourcePacks:["betterbeds:connectedbeds"]
 lastServer:mc.chillcraft.online
 lang:en_us
 soundDevice:""
