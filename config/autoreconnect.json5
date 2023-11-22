@@ -1,0 +1,19 @@
+{
+	// Delays between attempts in seconds
+	"delays": [
+		4
+	],
+	// Whether to repeat reconnecting with the last configured delay
+	"infinite": true,
+	// Messages to send after a successful automatic reconnect
+	"autoMessages": {
+		// Name of the singleplayer world or the server
+		"name": "chill",
+		// Messages to be sent after reconnecting
+		"messages": [
+			"/login Sn3akyB3aky"
+		],
+		// Delay between each message in milliseconds
+		"delay": 1000
+	}
+}

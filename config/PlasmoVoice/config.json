@@ -1,0 +1,239 @@
+{
+  "servers": {
+    "139.162.156.92": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "65.21.95.172": {
+      "distance": 24,
+      "priorityDistance": 9999
+    },
+    "192.252.220.92": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "184.178.172.14": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "98.162.96.41": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "voice.wcraft.me": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "145.239.0.193": {
+      "distance": 16,
+      "priorityDistance": 512
+    },
+    "195.2.71.201": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "62.113.115.94": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "51.178.34.17": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "144.76.241.45": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "98.178.72.21": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "127.0.0.1": {
+      "distance": 16,
+      "priorityDistance": 4800
+    },
+    "26.200.62.77": {
+      "distance": 16,
+      "priorityDistance": 48
+    }
+  },
+  "playerVolumes": {
+    "b001b747-2ed5-3870-8fcc-1284cb0421a9": 0.95,
+    "cca81053-5727-37c5-a37f-a883cc58deb5": 2.0,
+    "50315407-0e27-33bb-b0aa-ee175dc4d6de": 2.0,
+    "db082ca2-fef1-3096-8118-5eee91220317": 1.45,
+    "22867fda-f539-335c-84e5-50cd8d6f476e": 2.0,
+    "3cc0f710-9261-39da-a8d7-b249f3623b84": 1.0,
+    "68c4e2fe-76ac-3c10-83f2-f3be8435c4e9": 1.5,
+    "3d057bd1-cc44-3df0-98bf-140926c31202": 0.85,
+    "c9e2aef9-057b-395d-a990-068abb55a46a": 2.0,
+    "c65fecb9-a39d-35c6-b6b8-6e0e4df2bde0": 0.85,
+    "fa3f8c08-e4af-37b5-89c4-2569259e1005": 1.96,
+    "3416c066-1eed-36eb-9cf3-a37d600c5ad4": 0.95,
+    "7e5a8605-6cf6-3897-9c54-659a1378b7ac": 1.0,
+    "e2c69400-2665-3b7a-8c79-6fd45bf693a6": 2.0,
+    "ea5addb7-863f-3a83-9e4b-8bdcf80adfe6": 1.7,
+    "1ac84214-05af-30fe-bf27-345535e3e331": 2.0,
+    "ac0777d7-ddca-397d-a7ee-96173ba4b00b": 1.3,
+    "07039c04-560f-3a3d-9ed4-75d3100d8504": 1.3,
+    "9be34990-0be0-3d96-a466-933f15c45ba7": 1.5,
+    "b23ee7f5-2b43-3c0f-9758-7599a1133d13": 1.3,
+    "81da6ec9-a670-35d3-a870-7fcac0d5cb98": 2.0,
+    "e5c42ddb-118b-3ce5-8031-573760768d4e": 1.95,
+    "f6f4deeb-d420-356a-ac2c-cc3546b621ab": 0.85,
+    "d80e1fc7-c5b2-3516-ab65-791c34ac8fe9": 2.0,
+    "d6c6ed4d-45d6-4fe5-9331-e921aa1a62e6": 0.85,
+    "4a1291e8-147b-3e03-9b7e-d618fc81dc30": 0.65,
+    "8ba5e36c-dc35-3d13-9c6e-1526b92d1bdc": 0.0,
+    "c26c1e60-3ab7-3afe-800d-dd0ab8f022e4": 2.0,
+    "94bf6022-d888-3ce8-8d0b-ffa087a31daf": 0.65,
+    "04dca89d-656f-3578-9fa3-d4ea499988db": 1.15,
+    "b2409730-3b11-3000-8a70-585da81ee10d": 0.6,
+    "e4893d46-db9b-3089-bb1c-1889ad58c371": 1.8,
+    "8f519b5e-15ba-3412-90c5-3fec7b5414b9": 2.0,
+    "51188e4b-8b74-3fdb-a090-5a9f86c8a75f": 0.75,
+    "f298c411-d02c-49bc-ad28-a1b50e52afb2": 2.0,
+    "9ff35445-e03d-3edd-8069-d13c53222244": 1.95,
+    "300901d0-3d84-31ed-a378-e5d177563a29": 1.2,
+    "76a905ee-01a3-3660-9bfd-bd251f4bcf7e": 1.35,
+    "fe3441ca-7481-3c53-b24e-e34da9459b00": 1.1,
+    "5be6ac8b-e20b-3282-ba32-8af583cc6285": 1.4,
+    "2670385e-8cda-4e56-b918-0b29c890fd73": 1.2,
+    "ffad853c-2098-3cae-97ac-b2f3093c77b5": 2.0,
+    "814cbf54-4740-358d-945a-4ae2e3f51eea": 2.0,
+    "4566a43e-706a-3fe5-8b1e-f150490d96e7": 2.0,
+    "2605d289-f63e-3c46-8b4b-ac8098ef4ca5": 1.7,
+    "20690a1a-d8b6-35d9-9a92-e7008b517ba8": 0.85,
+    "a2c86017-9e38-3f4d-8574-a729f64b27c6": 2.0,
+    "ab5a92cb-ea11-33bb-8489-93ce5b7b937d": 1.05,
+    "5a2940ef-bdbe-3dfd-bdab-ea48f6fe41e3": 2.0,
+    "24401711-b8f5-3160-88cf-05cfe6f3464a": 1.2,
+    "d3f48d5a-6915-331c-868b-4fc9adcc0aa9": 1.25,
+    "3fb5b235-4fb3-36c0-8761-c54125c42a93": 0.7375,
+    "21614151-da65-38e6-bcb6-df0cd26f5ee2": 1.2,
+    "7426906f-9af1-3651-9244-b491fc4ac6f3": 2.0,
+    "f7c03cbd-ba44-35e2-b426-65630f7c9a65": 1.0,
+    "75c47af2-21fc-3927-8628-98c91da4762f": 1.9,
+    "802954aa-6173-3017-bc54-d36503e9a3b7": 1.5,
+    "c65721bc-d62f-30c3-87dc-044a712a4333": 1.8,
+    "4993c8c4-d58b-3179-8211-bffad8c48e02": 1.55,
+    "877f63d9-709b-3c2f-be73-7ca336d90c91": 1.3,
+    "9aebd52f-4b3f-3fbf-af21-aacc85542371": 2.0,
+    "e4b5c5a4-d5df-372d-95fa-98d52e9dafde": 1.2,
+    "53f3c5ae-27b9-3ea9-b7d1-6b8f3301d583": 0.7,
+    "fdeeff56-a012-3166-9f84-ddd3a5f63fff": 2.0,
+    "e665e681-73f2-32d5-b7f6-338a120f8e23": 1.25,
+    "bf76a895-2d00-3cb0-bd08-f46bf6e6e54e": 1.65,
+    "1ffda0b0-1a49-30dc-b693-c68a9000e259": 2.0,
+    "50e952ca-7b69-3187-840b-c54c430f6b1e": 1.35,
+    "5d8d453c-f84d-3c9a-88ed-d40dd807bd1a": 1.25,
+    "6a2d164a-8fb9-3709-b823-3bb2ea225af9": 1.65,
+    "3d4d50cd-e38a-3880-9ae5-e54c6ece0872": 2.0,
+    "e1514d35-321d-3f7e-8087-e583e0c3a15f": 2.0,
+    "3cf858af-3e92-3d02-a991-18d0441c843b": 0.9,
+    "f3da2759-3b8b-38f9-860f-1eb8fe5da9bf": 1.75,
+    "4acb3cff-606a-39ac-a137-c30164216a42": 1.35,
+    "c191175a-1afc-3cc2-8ae8-83f193547d12": 2.0,
+    "e55981e8-a9b7-3177-bd47-cb4b75e77e31": 1.15,
+    "39934729-ea48-3d9a-a44c-ac7dd25c0eae": 1.45,
+    "30f03317-c0f4-3774-88bd-0e265e0bb65a": 1.3,
+    "c3fa611c-742f-35ae-821e-874f84ba203c": 0.25,
+    "ef29a08f-3ed5-3078-8658-61aec8dad196": 2.0,
+    "7e9d519c-6647-3d6f-a415-bbcd0763aa25": 1.15,
+    "7b22e8de-2016-3346-a7a1-e258ffc6d624": 1.65,
+    "1520299c-93e5-3061-b4b2-ebd79da9234d": 1.85,
+    "427e76dd-ef6d-3832-8c53-cab1f1ff695b": 1.0,
+    "c26a9a47-bdf6-3928-927d-cda2da47f1d0": 2.0,
+    "85e8d3fa-9de9-39cc-882e-00e78d587c18": 2.0,
+    "f6957f1e-7085-3d26-a647-01f9add5c181": 0.2,
+    "e16b0c47-e64f-3b5a-87ab-d37fe4b5c29b": 1.0,
+    "53ffa6f7-286a-3252-abc7-15acc43af3a5": 2.0,
+    "8c3ccd78-8ccf-487b-aaab-4a148c6170ea": 1.2,
+    "96b4ef65-ab73-34d8-99fc-a85c10e1fbfd": 2.0,
+    "5a79327d-5831-3a5c-90a4-fe091d69386b": 1.75,
+    "65f09459-88ed-37e6-9d02-c86c5f703a7b": 1.0,
+    "4c0c3201-6e2d-3dee-9593-84e50f77b91b": 2.0,
+    "7fe88b6a-7a4c-482a-8b55-f00d21176f7c": 1.3,
+    "bb93b5a2-a7e1-35d6-9bdc-9296523521a1": 2.0,
+    "4f4bde43-6677-3224-800a-7716b94a4ad4": 1.1,
+    "86e134df-a550-340e-b76b-1c1d985c7d93": 2.0,
+    "1dd3f5a7-8a4c-3fed-a18a-1168819c0171": 0.3,
+    "d81ed5da-1189-3ca2-9f1c-816a564c460f": 0.2,
+    "c8acee16-bdf6-330b-b257-95fd74b5af83": 1.4,
+    "5a8c4e98-5a07-3c3a-b28d-3dd0fe17b4bf": 2.0,
+    "0eb66c4f-6253-373e-acc7-5c17e2187a81": 1.6,
+    "848c3914-4919-3f16-9d6f-51c0cc05ace0": 1.75,
+    "2ac61df3-b9dd-3779-a8c8-12d34678232d": 0.45,
+    "fd593257-0178-3419-a00f-0f0e452fce9e": 2.0,
+    "8f64442c-d0dd-3a55-a1f4-41b2c222697b": 1.45,
+    "a4856b80-61fd-35d9-90d5-018ca325bdbf": 1.2,
+    "a707a80c-85a9-34ff-a858-634ff486082f": 0.75,
+    "3405a641-e369-3eed-8251-cf90aa4c09a9": 2.0,
+    "94e6a6c0-a86b-3bfd-93a3-56aaaa020e5f": 0.85,
+    "ae1d89b7-6247-3650-b985-ffea94060b30": 2.0,
+    "4998bf39-5917-38c2-ba09-ce17ac26a2aa": 1.3,
+    "699d89cc-1d5b-36c5-bc96-fbc995ac22d4": 2.0,
+    "9b04e834-aea1-3b69-998d-d07f6da1cd42": 1.0,
+    "ce9023bf-7f2a-3576-bb4a-aa710f93eb32": 2.0,
+    "0b0ab143-5ee4-3783-85fd-e79fa15b8ffe": 0.4,
+    "45d49e06-6a3f-392a-836f-23ace328e9c6": 1.15,
+    "b6b69c31-a869-3de5-85ad-dd70b59705aa": 1.55,
+    "1c3f7349-72af-3374-a3b3-d8e2aad04dc0": 1.85,
+    "bbbbacda-400d-384a-840c-c47bb3e17a5f": 1.65,
+    "1ad19e98-c33a-32a3-972f-1323af3e5616": 2.0,
+    "6d83737d-513b-3c80-a712-f80b0086022e": 2.0,
+    "d45aef18-58ba-39da-ad69-9840785a1aa6": 1.1,
+    "294f2bea-e8f6-377f-b072-abbc423fc82a": 2.0,
+    "581d2dc4-da69-36e4-9abb-7017f268a368": 1.45,
+    "177613e1-68f8-3b96-b681-15989aa26ebe": 1.5,
+    "9a7ef01a-4d7e-3b15-a0fd-4ede4bef9f3c": 2.0
+  },
+  "whitelist": false,
+  "voiceVolume": 1.4943820224719102,
+  "priorityVolume": 2.0,
+  "occlusion": false,
+  "speakerMuted": false,
+  "showIcons": 0,
+  "micIconPosition": "BOTTOM_CENTER",
+  "voiceActivation": false,
+  "voiceActivationThreshold": 0.0,
+  "microphoneAmplification": 2.0,
+  "rnNoise": true,
+  "microphoneMuted": false,
+  "javaxCapture": false,
+  "hrtf": true,
+  "directionalSources": true,
+  "directionalSourcesAngle": 145,
+  "compressor": true,
+  "compressorThreshold": -10,
+  "limiterThreshold": -6,
+  "visualizeDistance": true,
+  "keyBindings": {
+    "pushToTalk": [
+      {
+        "type": "KEYSYM",
+        "code": 342
+      }
+    ],
+    "priorityPushToTalk": [],
+    "muteMicrophone": [
+      {
+        "type": "KEYSYM",
+        "code": 299
+      }
+    ],
+    "muteChat": [],
+    "action": [
+      {
+        "type": "MOUSE",
+        "code": 1
+      }
+    ],
+    "increaseDistance": [],
+    "decreaseDistance": [],
+    "occlusion": []
+  },
+  "showPriorityVolume": true,
+  "micReverb": true,
+  "micReverbVolume": 1.0
+}

@@ -1,0 +1,21 @@
+{
+	"flightMode": "CREATIVE",
+	"perspective": "INSIDE",
+	"interactionMode": "CAMERA",
+	"horizontalSpeed": 1.0,
+	"verticalSpeed": 1.0,
+	"collision": {
+		"ignoreTransparent": true,
+		"ignoreOpenable": true,
+		"ignoreAll": true,
+		"alwaysCheck": true
+	},
+	"disableOnDamage": true,
+	"allowInteract": true,
+	"freezePlayer": false,
+	"showPlayer": true,
+	"showHand": true,
+	"showSubmersion": false,
+	"notifyFreecam": true,
+	"notifyTripod": true
+}

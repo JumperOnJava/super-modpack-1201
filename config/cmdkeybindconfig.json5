@@ -1,0 +1,27 @@
+{
+	"enabled": true,
+	// Keybinding to open the Macro editing screen
+	"openMacroScreenKeybind": "key.keyboard.unknown",
+	"macros": [
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.f9",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/login xyeta1",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.f4",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/sit",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		}
+	]
+}

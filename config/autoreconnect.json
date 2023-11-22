@@ -1,0 +1,13 @@
+{
+  "delays": [],
+  "infinite": false,
+  "autoMessages": [
+    {
+      "name": "Chillcraft",
+      "messages": [
+        "/login Meteo360"
+      ],
+      "delay": 1000
+    }
+  ]
+}

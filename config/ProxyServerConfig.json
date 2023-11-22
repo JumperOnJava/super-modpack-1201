@@ -1,0 +1,11 @@
+{
+  "proxy-enabled": false,
+  "accounts": {
+    "": {
+      "IP:PORT": "91.122.226.13:1080",
+      "type": "SOCKS5",
+      "username": "",
+      "password": ""
+    }
+  }
+}

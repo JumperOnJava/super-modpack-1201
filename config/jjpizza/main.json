@@ -1,0 +1,415 @@
+[
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 5.4977865
+      },
+      "endAngle": {
+        "radianAngle": 5.890486
+      }
+    },
+    "name": "Invis frame",
+    "color": -7908059,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/execute run give @s item_frame{EntityTag:{Invisible:1b}}"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/item_frame.png",
+      "cachedString": "minecraft:textures/item/item_frame.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 5.890486
+      },
+      "endAngle": {
+        "radianAngle": 6.2831845
+      }
+    },
+    "name": "fzmm",
+    "color": -11556561,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.KeybindingActionProvider",
+      "Object": {
+        "targetKeyBindingID": "key.fzmm.mainGui",
+        "hold": false
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "fzmm",
+      "field_13355": "icon.png",
+      "cachedString": "fzmm:icon.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 0.0
+      },
+      "endAngle": {
+        "radianAngle": 0.39269912
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "dasherscapital",
+      "field_13355": "logocopy.png",
+      "cachedString": "dasherscapital:logocopy.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 0.39269912
+      },
+      "endAngle": {
+        "radianAngle": 0.78539824
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 0.78539824
+      },
+      "endAngle": {
+        "radianAngle": 1.1780974
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 1.1780974
+      },
+      "endAngle": {
+        "radianAngle": 1.5707965
+      }
+    },
+    "name": " ",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 1.5707965
+      },
+      "endAngle": {
+        "radianAngle": 1.9634956
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 1.9634956
+      },
+      "endAngle": {
+        "radianAngle": 2.3561947
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 2.3561947
+      },
+      "endAngle": {
+        "radianAngle": 2.7488937
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 2.7488937
+      },
+      "endAngle": {
+        "radianAngle": 3.141593
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 4.712389
+      },
+      "endAngle": {
+        "radianAngle": 5.1487217
+      }
+    },
+    "name": "",
+    "color": -11075584,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/execute in dasherscapital:lobbyworld run tp @s 105.95 25.00 -36.88 -810.60 27.60"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 5.1487217
+      },
+      "endAngle": {
+        "radianAngle": 5.4977865
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 3.141593
+      },
+      "endAngle": {
+        "radianAngle": 3.534292
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 3.534292
+      },
+      "endAngle": {
+        "radianAngle": 3.926991
+      }
+    },
+    "name": "",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 3.926991
+      },
+      "endAngle": {
+        "radianAngle": 4.3196898
+      }
+    },
+    "name": "lm replace",
+    "color": -16777216,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 4.3196898
+      },
+      "endAngle": {
+        "radianAngle": 4.712389
+      }
+    },
+    "name": "Save Inv",
+    "color": -16742261,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.KeybindingActionProvider",
+      "Object": {
+        "targetKeyBindingID": "key.saveToolbarActivator",
+        "hold": true
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.KeybindingActionProvider",
+      "Object": {
+        "targetKeyBindingID": "key.loadToolbarActivator",
+        "hold": true
+      }
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  }
+]

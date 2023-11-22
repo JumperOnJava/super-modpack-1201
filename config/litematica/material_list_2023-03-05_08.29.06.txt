@@ -1,0 +1,115 @@
++-----------------------------+-------+---------+-----------+
+| Area Analysis for selection 'Unnamed'                     |
++-----------------------------+-------+---------+-----------+
+| Item                        | Total | Missing | Available |
++-----------------------------+-------+---------+-----------+
+| Terracotta                  |  2043 |       0 |         1 |
+| Gray Concrete               |   524 |       0 |         0 |
+| Mud Bricks                  |   402 |       0 |         0 |
+| Spruce Planks               |   256 |       0 |         0 |
+| Stripped Jungle Log         |   254 |       0 |         0 |
+| Mud Brick Stairs            |   216 |       0 |         0 |
+| Block of Quartz             |   188 |       0 |         1 |
+| Gray Terracotta             |   165 |       0 |         0 |
+| Smooth Stone                |   161 |       0 |         1 |
+| Yellow Terracotta           |   155 |       0 |         0 |
+| Orange Stained Glass Pane   |   153 |       0 |         0 |
+| Bricks                      |   131 |       0 |         0 |
+| Smooth Sandstone            |   122 |       0 |         0 |
+| Chiseled Stone Bricks       |   113 |       0 |         1 |
+| Mud Brick Slab              |   112 |       0 |         0 |
+| Light Gray Concrete         |    98 |       0 |         0 |
+| Deepslate Tile Slab         |    94 |       0 |         0 |
+| White Terracotta            |    85 |       0 |         0 |
+| Sandstone                   |    84 |       0 |         1 |
+| Mangrove Stairs             |    83 |       0 |         0 |
+| Dark Oak Slab               |    80 |       0 |         0 |
+| Deepslate Tiles             |    73 |       0 |         0 |
+| Granite Wall                |    72 |       0 |         0 |
+| Deepslate Tile Stairs       |    70 |       0 |         0 |
+| Spruce Stairs               |    70 |       0 |         0 |
+| Smooth Red Sandstone Stairs |    69 |       0 |         0 |
+| Polished Diorite Stairs     |    65 |       0 |         0 |
+| Diorite Wall                |    56 |       0 |         0 |
+| Yellow Stained Glass Pane   |    54 |       0 |         0 |
+| Oak Planks                  |    52 |       0 |         0 |
+| Sandstone Wall              |    49 |       0 |         0 |
+| Dark Oak Stairs             |    48 |       0 |         0 |
+| White Stained Glass Pane    |    48 |       0 |         0 |
+| Nether Brick Stairs         |    45 |       0 |         0 |
+| Polished Granite Stairs     |    45 |       0 |         0 |
+| Polished Andesite           |    43 |       0 |         0 |
+| Brown Stained Glass Pane    |    42 |       0 |         0 |
+| Red Sandstone Wall          |    40 |       0 |         0 |
+| Mangrove Planks             |    38 |       0 |         0 |
+| Stripped Mangrove Log       |    38 |       0 |         0 |
+| Black Stained Glass Pane    |    36 |       0 |         0 |
+| Nether Brick Wall           |    35 |       0 |         0 |
+| Polished Granite            |    35 |       0 |         0 |
+| Polished Deepslate          |    33 |       0 |         0 |
+| Smooth Red Sandstone        |    33 |       0 |         0 |
+| Andesite Wall               |    32 |       0 |         1 |
+| Polished Blackstone Stairs  |    32 |       0 |         0 |
+| Spruce Trapdoor             |    32 |       0 |         0 |
+| Andesite Stairs             |    27 |       0 |         0 |
+| Birch Stairs                |    27 |       0 |         0 |
+| Sea Lantern                 |    25 |       0 |         0 |
+| Mangrove Fence              |    24 |       0 |         0 |
+| Sandstone Stairs            |    24 |       0 |         0 |
+| Polished Deepslate Stairs   |    23 |       0 |         0 |
+| Red Sandstone Stairs        |    23 |       0 |         0 |
+| Red Sandstone               |    22 |       0 |         0 |
+| Stripped Birch Log          |    22 |       0 |         0 |
+| Smooth Quartz Slab          |    16 |       0 |         0 |
+| Andesite                    |    15 |       0 |         0 |
+| Ochre Froglight             |    15 |       0 |         0 |
+| Polished Deepslate Slab     |    14 |       0 |         0 |
+| Polished Deepslate Wall     |    14 |       0 |         0 |
+| End Rod                     |    13 |       0 |         0 |
+| Polished Andesite Stairs    |    13 |       0 |         0 |
+| Brick Wall                  |    12 |       0 |         0 |
+| Packed Ice                  |    11 |       0 |         0 |
+| Smooth Quartz Stairs        |    11 |       0 |         0 |
+| Nether Bricks               |    10 |       0 |         0 |
+| Polished Diorite            |    10 |       0 |         0 |
+| Spruce Log                  |    10 |       0 |         0 |
+| Andesite Slab               |     9 |       0 |         0 |
+| Birch Trapdoor              |     9 |       0 |         0 |
+| Bookshelf                   |     9 |       0 |         0 |
+| Oak Stairs                  |     9 |       0 |         0 |
+| Diorite                     |     8 |       0 |         0 |
+| Lantern                     |     8 |       0 |         0 |
+| Deepslate Tile Wall         |     7 |       0 |         0 |
+| Iron Trapdoor               |     7 |       0 |         0 |
+| Barrel                      |     6 |       0 |         0 |
+| Birch Door                  |     6 |       0 |         8 |
+| White Banner                |     6 |       0 |         0 |
+| Acacia Stairs               |     5 |       0 |         0 |
+| Dark Oak Trapdoor           |     5 |       0 |         0 |
+| Deepslate Bricks            |     5 |       0 |         0 |
+| Player Head                 |     5 |       0 |         0 |
+| Birch Sign                  |     4 |       0 |         0 |
+| Brick Stairs                |     4 |       0 |         0 |
+| Smoker                      |     4 |       0 |         0 |
+| Spruce Door                 |     4 |       0 |         0 |
+| Spruce Fence                |     4 |       0 |         0 |
+| Blackstone                  |     3 |       0 |         0 |
+| Dispenser                   |     3 |       0 |         0 |
+| Lever                       |     3 |       0 |         0 |
+| Blackstone Stairs           |     2 |       0 |         0 |
+| Cobbled Deepslate Wall      |     2 |       0 |         0 |
+| Dark Oak Door               |     2 |       0 |         0 |
+| Loom                        |     2 |       0 |         0 |
+| Mangrove Trapdoor           |     2 |       0 |         0 |
+| Oak Pressure Plate          |     2 |       0 |         0 |
+| Water Bucket                |     2 |       0 |         0 |
+| Anvil                       |     1 |       0 |         0 |
+| Cauldron                    |     1 |       0 |         0 |
+| Iron Door                   |     1 |       0 |         0 |
+| Mud Brick Wall              |     1 |       0 |         0 |
+| Oak Button                  |     1 |       0 |         0 |
+| Redstone Dust               |     1 |       0 |         0 |
+| Stone Stairs                |     1 |       0 |         0 |
++-----------------------------+-------+---------+-----------+
+| Item                        | Total | Missing | Available |
++-----------------------------+-------+---------+-----------+

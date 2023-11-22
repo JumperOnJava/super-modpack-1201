@@ -1,0 +1,111 @@
+debug = false
+disable_crowdin = false
+check_for_updates = true
+
+key_bindings = []
+
+
+
+[voice]
+disabled = false
+microphone_disabled = true
+activation_threshold = -30.0
+input_device = "OpenAL Soft on Microphone (Realtek(R) Audio)"
+output_device = ""
+disable_input_device = false
+use_javax_input = false
+microphone_volume = 1.0
+noise_suppression = false
+volume = 1.0
+compressor_limiter = true
+sound_occlusion = false
+directional_sources = false
+hrtf = false
+stereo_capture = false
+
+[voice.volumes.source_fdeeff56-a012-3166-9f84-ddd3a5f63fff]
+volume = 1.0
+[voice.volumes.source_7426906f-9af1-3651-9244-b491fc4ac6f3]
+volume = 1.6
+[voice.volumes.source_0b09255c-fefb-3deb-ace0-d54427474a51]
+volume = 1.0
+[voice.volumes.source_fd77287e-f9aa-3220-a830-33594d29e392]
+volume = 1.0
+[voice.volumes.source_4c0c3201-6e2d-3dee-9593-84e50f77b91b]
+volume = 1.0
+[voice.volumes.source_e2c69400-2665-3b7a-8c79-6fd45bf693a6]
+volume = 1.0
+[voice.volumes.source_ef29a08f-3ed5-3078-8658-61aec8dad196]
+volume = 1.0
+[voice.volumes.source_b001b747-2ed5-3870-8fcc-1284cb0421a9]
+volume = 1.0
+[voice.volumes.source_210345ce-13d6-35bb-8731-84fbb9bf47fa]
+volume = 1.0
+[voice.volumes.source_4f4bde43-6677-3224-800a-7716b94a4ad4]
+volume = 1.0
+[voice.volumes.source_3d4d50cd-e38a-3880-9ae5-e54c6ece0872]
+volume = 1.0
+[voice.volumes.source_1369a508-f844-4591-8093-6c2da1df9db1]
+volume = 1.0
+[voice.volumes.source_3cf858af-3e92-3d02-a991-18d0441c843b]
+volume = 1.0
+[voice.volumes.source_2ac61df3-b9dd-3779-a8c8-12d34678232d]
+volume = 1.0
+[voice.volumes.source_e665e681-73f2-32d5-b7f6-338a120f8e23]
+volume = 1.0
+[voice.volumes.source_b2409730-3b11-3000-8a70-585da81ee10d]
+volume = 1.0
+[voice.volumes.source_1ffda0b0-1a49-30dc-b693-c68a9000e259]
+volume = 1.0
+[voice.volumes.source_12a6f568-72c8-35d3-963a-2da23f4f69d0]
+volume = 1.0
+[voice.volumes.source_4f2604c3-966d-3248-b7b4-850c723a17f1]
+volume = 1.0
+[voice.volumes.source_e4893d46-db9b-3089-bb1c-1889ad58c371]
+volume = 1.0
+[voice.volumes.source_68c4e2fe-76ac-3c10-83f2-f3be8435c4e9]
+volume = 1.0
+[voice.volumes.source_951eee48-b8a1-3af4-987b-3af1140f2931]
+volume = 1.0
+[voice.volumes.source_699d89cc-1d5b-36c5-bc96-fbc995ac22d4]
+volume = 1.0
+[voice.volumes.source_802954aa-6173-3017-bc54-d36503e9a3b7]
+volume = 1.0
+[voice.volumes.proximity]
+volume = 1.0
+[voice.volumes.source_72908880-3937-3a89-bc07-162d80295778]
+volume = 1.0
+[voice.volumes.source_cd2f8533-74c2-3d31-8ada-e65fba41e5e3]
+volume = 1.0
+[voice.volumes.source_30e282c3-af9b-3425-b74a-962e47a28e84]
+volume = 1.0
+[voice.volumes.source_5a2940ef-bdbe-3dfd-bdab-ea48f6fe41e3]
+volume = 1.0
+[voice.volumes.source_f71627f7-d56a-49f6-8a13-2a517b16836b]
+volume = 1.0
+[voice.volumes.source_13ae2908-5498-3118-befa-1ab4f7bdcb6e]
+volume = 1.0
+
+[advanced]
+visualize_voice_distance = true
+visualize_voice_distance_on_join = false
+compressor_threshold = -10
+limiter_threshold = -6
+directional_sources_angle = 145
+stereo_sources_to_mono = false
+panning = true
+camera_sound_listener = true
+exponential_volume_slider = true
+exponential_distance_gain = true
+
+[overlay]
+show_activation_icon = true
+activation_icon_position = "BOTTOM_CENTER"
+show_source_icons = 0
+show_static_source_icons = true
+overlay_enabled = true
+overlay_position = "TOP_LEFT"
+overlay_style = "NAME_SKIN"
+
+[overlay.source_states]
+proximity = "OFF"
