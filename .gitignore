@@ -3,7 +3,8 @@ data/
 datapacks/
 logs/
 moddata/
-ModTranslations
-schematics
-XaeroWaypoints
-XareoWorldMap
+ModTranslations/
+schematics/
+XaeroWaypoints/
+XareoWorldMap/
+dashloader-cache/
